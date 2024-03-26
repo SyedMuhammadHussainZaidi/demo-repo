@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae ipsa expedita, e
 - - item 1
   - - item 1
   - item 1
-<img src="file:///C:/Users/asp/Downloads/sc1.webp"  width="350">
+<img src="https://modernelectronics.pk/cdn/shop/files/Artboard1_grande_4c8657e3-3037-4b94-a95d-27299e883d2f.jpg?v=1699720505&width=600"  width="350">
